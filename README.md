@@ -1,2 +1,2 @@
 # vp2021
-Sooritan tegusid
+Veebiprogrammeerimise õppeaine repositoorium
